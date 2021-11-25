@@ -1,0 +1,2 @@
+keypad.c:5:6:keypad_init	40	static
+keypad.c:67:6:keypad_read	40	static

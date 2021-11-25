@@ -1,0 +1,6 @@
+PuenteH.c:10:6:DC_Motor_Controller_Init	16	static
+PuenteH.c:24:6:set_Relative_Velocity	24	static
+PuenteH.c:33:6:invert_Motor	16	static
+PuenteH.c:49:6:stop_Motor	16	static
+PuenteH.c:56:6:set_direction_Forward	16	static
+PuenteH.c:61:6:set_direction_Backward	16	static
